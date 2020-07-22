@@ -1,7 +1,7 @@
-import React, {useState, useEffect} from "react"
-import Form from "./Form"
-import Team from "./Team"
-import {v4 as uuid} from "uuid"
+import React, {useState, useEffect} from "react";
+import Form from "./Form";
+import Team from "./Team";
+import {v4 as uuid} from "uuid";
 
 const intialTeamList = [
   {
